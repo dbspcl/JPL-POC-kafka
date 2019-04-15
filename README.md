@@ -1,6 +1,6 @@
 # POC-kafka
 
-## Simple POC that sends a JSON file to a topic called 'testpy' and then consumes it back
+## Simple POC that sends a JSON file to a topic called 'test' or 'test-small' and then consumes it back
 ## Uses Python confluent libraries for Producer, Consumer
 
 Build the datagen container
